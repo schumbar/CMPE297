@@ -18,7 +18,7 @@ Please see below for the list of deliverables that have been submitted for this 
 
 1. `README.md`: README file containing assignment description and deliverables.
 2. `baby_tracker`: Baby Tracker app using Claude 3.5 Sonnet VSCode extension.
-3. `assignment_01_partB.mp4`: Video of the demo for the baby tracker app.
+3. `assignment01_partB.mp4`: Video of the demo for the baby tracker app.
 
 ### App Demo Instructions
 
