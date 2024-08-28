@@ -23,10 +23,14 @@ Part F:
 
 Please see below for the list of deliverables that have been submitted for this assignment. Please note that all deliverables are under the `assignment_01/part_f` folder.
 
-1. `TODO_filename`: TODO_Description
-
-## References
-
-Please see below for the references that were used for this assignment.
-
-1. [TODOLinkName](TODOLinkUrl)
+1. `example_01.py`: This file contains the code for the first use case.
+2. `example_02.py`: This file contains the code for the second use case.
+3. `example_03.py`: This file contains the code for the third use case.
+4. `example_04.py`: This file contains the code for the fourth use case.
+5. `example_05.py`: This file contains the code for the fifth use case.
+6. `example_06.py`: This file contains the code for the sixth use case.
+7. `example_07.py`: This file contains the code for the seventh use case.
+8. `example_08.py`: This file contains the code for the eighth use case.
+9. `example_09.py`: This file contains the code for the ninth use case.
+10. `example_10.py`: This file contains the code for the tenth use case.
+11. `README.md`: This file contains the documentation for this assignment.
