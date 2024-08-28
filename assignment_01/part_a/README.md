@@ -1,4 +1,4 @@
-# Assignment 01
+# Assignment 01 Part A
 
 ## Assignment Description
 
@@ -16,5 +16,5 @@ Long video summarization and medium article writing with gemini largest experime
 Please see below for the list of deliverables that have been submitted for this assignment. Please note that all deliverables are under the `assignment_01/part_a` folder.
 
 1. `CMPE297_HW1_PartA.pdf`: A PDF file containing the LaTeX presentation.
-2. [Link to Medium Article](https://medium.com/@shawn.chumbar/ai-and-the-next-computing-platforms-a-conversation-with-jensen-huang-and-mark-zuckerberg-7494a31986b0)
+2. [Link to Medium Article](https://medium.com/@shawn.chumbar/ai-and-the-next-computing-platforms-a-conversation-with-jensen-huang-and-mark-zuckerberg-7494a31986b0): Link to medium article for Part A.
 3. 
