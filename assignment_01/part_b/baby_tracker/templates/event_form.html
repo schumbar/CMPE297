@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="event-form-container">
+    <h2>{{ event_type.replace('_', ' ').title() }}</h2>
+    <form method="POST" action="{{ url_for('event', event_type=event_type) }}">
+        {% if event_type == 'breastfeeding' %}
+        <div class="form-group">
+            <label for="breast">Breast:</label>
+            <select id="breast" name="breast" required>
+                <option value="left">Left</option>
+                <option value="right">Right</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="duration">Duration (minutes):</label>
+            <input type="number" id="duration" name="duration" min="1" required>
+        </div>
+        {% elif event_type == 'bottle_feeding' %}
+        <div class="form-group">
+            <label for="amount">Amount (ounces):</label>
+            <input type="number" id="amount" name="amount" min="0.1" step="0.1" required>
+        </div>
+        {% elif event_type == 'diaper_change' %}
+        <div class="form-group">
+            <label for="diaper_type">Type:</label>
+            <select id="diaper_type" name="diaper_type" required>
+                <option value="pee">Pee</option>
+                <option value="poop">Poop</option>
+                <option value="both">Both</option>
+            </select>
+        </div>
+        {% elif event_type == 'custom' %}
+        <div class="form-group">
+            <label for="custom_event_name">Event Name:</label>
+            <input type="text" id="custom_event_name" name="custom_event_name" required>
+        </div>
+        {% endif %}
+        <button type="submit">Record Event</button>
+    </form>
+</div>
+{% endblock %}

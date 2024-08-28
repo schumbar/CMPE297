@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="history-container">
+    <h2>Event History</h2>
+    <ul class="event-list">
+        {% for event in events %}
+        <li class="event-item">
+            <span class="event-type">{{ event.event_type.replace('_', ' ').title() }}</span>
+            <span class="event-time">{{ event.timestamp }}</span>
+            {% if event.event_type == 'breastfeeding' %}
+            <span class="event-details">Breast: {{ event.breast }}, Duration: {{ event.duration }} minutes</span>
+            {% elif event.event_type == 'bottle_feeding' %}
+            <span class="event-details">Amount: {{ event.amount }} ounces</span>
+            {% elif event.event_type == 'diaper_change' %}
+            <span class="event-details">Type: {{ event.diaper_type }}</span>
+            {% elif event.event_type == 'custom' %}
+            <span class="event-details">{{ event.custom_event_name }}</span>
+            {% endif %}
+        </li>
+        {% endfor %}
+    </ul>
+</div>
+{% endblock %}

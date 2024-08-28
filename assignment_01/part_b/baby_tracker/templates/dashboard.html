@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="dashboard-container">
+    <h2>Dashboard</h2>
+    <div class="event-buttons">
+        <a href="{{ url_for('event', event_type='breastfeeding') }}" class="event-button">Breastfeeding</a>
+        <a href="{{ url_for('event', event_type='bottle_feeding') }}" class="event-button">Bottle Feeding</a>
+        <a href="{{ url_for('event', event_type='diaper_change') }}" class="event-button">Diaper Change</a>
+        <a href="{{ url_for('event', event_type='sleep') }}" class="event-button">Sleep</a>
+        <a href="{{ url_for('event', event_type='tummy_time') }}" class="event-button">Tummy Time</a>
+        <a href="{{ url_for('event', event_type='custom') }}" class="event-button">Custom Event</a>
+    </div>
+</div>
+{% endblock %}
