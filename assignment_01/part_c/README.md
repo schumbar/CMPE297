@@ -20,10 +20,6 @@ Part C: Multimodal Capabilities of Gemini, Claude, and GPT-4o
 
 Please see below for the list of deliverables that have been submitted for this assignment. Please note that all deliverables are under the `assignment_01/part_c` folder.
 
-1. `TODO_filename`: TODO_Description
-
-## References
-
-Please see below for the references that were used for this assignment.
-
-1. [TODOLinkName](TODOLinkUrl)
+1. `ShawnChumbar_Assignment01_PartC.ipynb`: Colab for Assignment 01 Part C.
+2. `README.md`: README for Assignment 01 Part C.
+3. `ShawnChumbar_Assignment01_PartC.mp4`: Demo video for Assignment 01 Part C.
