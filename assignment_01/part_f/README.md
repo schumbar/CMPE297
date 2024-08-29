@@ -21,7 +21,7 @@ Part F:
 
 ### Deliverables
 
-Please see below for the list of deliverables that have been submitted for this assignment. Please note that all deliverables are under the `assignment_01/part_f` folder. Please note that the use case will be listed at the top of the python file. 
+Please see below for the list of deliverables that have been submitted for this assignment. Please note that all deliverables are under the `assignment_01/part_f` folder. Please note that the use case will be listed at the top of the python file.
 
 1. `example_01.py`: This file contains the code for the first use case.
 2. `example_02.py`: This file contains the code for the second use case.
