@@ -19,6 +19,7 @@ Please see below for the list of deliverables that have been submitted for this 
 1. `ShawnChumbar_Assignment01_PartD.ipynb`: Colab for part D.
 2. `assignment01_partD.mp4`: Demo video of the Colab notebook.
 3. [Medium Article](https://medium.com/@shawn.chumbar/exploring-the-versatility-of-gemini-ai-10-novel-use-cases-leveraging-long-context-34039a542502)
+4. `README.md`: README containing assignment details and instructions.
 
 ## References
 

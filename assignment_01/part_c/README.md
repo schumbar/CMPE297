@@ -14,8 +14,6 @@ Part C: Multimodal Capabilities of Gemini, Claude, and GPT-4o
 
 - Create a Colab notebook with a demo video of your work.
 
-## Assignment Deliverables
-
 ### Deliverables
 
 Please see below for the list of deliverables that have been submitted for this assignment. Please note that all deliverables are under the `assignment_01/part_c` folder.
