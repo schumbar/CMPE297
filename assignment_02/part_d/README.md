@@ -19,6 +19,7 @@ Please see below for the list of deliverables that have been submitted for this 
 2. `ResumeImproverChatbot.png`: Screenshot of the Resume Improver Chatbot.
 3. `StockPriceDataAnalysisAgent.png`: Sccreenshot of the Stock Price Data Analysis Agent.
 4. `assignment02_partD.mp4`: Video of the Dify.ai Agent and Chatbot.
+5. `DockerDesktop.png`: Screenshot of the Docker Desktop application showing that dify.ai was locally deployed.
 
 ### References
 
