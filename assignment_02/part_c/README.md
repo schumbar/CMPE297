@@ -15,7 +15,13 @@
 
 Please see below for the list of deliverables that have been submitted for this assignment. Please note that all deliverables are under the `assignment_02/part_c` folder.
 
-1. TODO
+1. `README.md`: A Markdown file containing the description of the deliverables for Part C of Assignment 02.
+2. `part_1C_Ollama_local.png`: A screenshot of part 1C where ollama is running locally on my laptop.
+3. `part_2C_Ollama_llava_picture.png`: A screenshot of part 2C where ollama has a picture attached.
+4. `part_3C_Ollama_REST_API.png`: A screenshot of part 3C where I am using the ollama REST API.
+5. `picture_01.png`: A picture of city during night.
+6. `picture_02.png`: A picture of a forest.
+7. `picture_03.png`: A picture of a man in a "V for Vendetta" mask, while holding something that is on fire.
 
 ### References
 
