@@ -24,6 +24,7 @@ Please see below for the list of deliverables that have been submitted for this 
 7. `picture_03.png`: A picture of a man in a "V for Vendetta" mask, while holding something that is on fire.
 8. `ShawnChumbar_Assignment02_Part4C.ipynb`: Google colab notebook containing the code for running ollama in google colab.
 9. `demo.txt`: A .txt file containing commands that I need to run for my demo for Part C.
+10. [Link to Youtube Video](https://youtu.be/JWW2Kd-M6NM): Link to youtube video showcasing the Demo portion for Assignment 02 Part C.
 
 ### References
 
