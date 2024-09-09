@@ -20,6 +20,7 @@ Please see below for the list of deliverables that have been submitted for this 
 3. `StockPriceDataAnalysisAgent.png`: Sccreenshot of the Stock Price Data Analysis Agent.
 4. `assignment02_partD.mp4`: Video of the Dify.ai Agent and Chatbot.
 5. `DockerDesktop.png`: Screenshot of the Docker Desktop application showing that dify.ai was locally deployed.
+6. [Link to Youtube Video](https://youtu.be/QBsbGl8NOWk)
 
 ### References
 
