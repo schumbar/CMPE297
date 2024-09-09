@@ -1,21 +1,27 @@
 ===============[ Part 1C: Demo ]===============
-ollama run gemma2:2b
-/show info
-What is gemma 2?
+Open terminal, then run the following commands:
+
+  ollama run gemma2:2b
+  /show info
+  What is gemma 2?
 
 
 ===============[ Part 2C: Demo ]===============
-cd /Users/schumbar/Desktop/Fall2024/CMPE297_SpecialTopics/CMPE297/assignment_02/part_c
-ollama run llava
-What's in this image? ./picture_01.jpg
-What's in this image? ./picture_02.jpg
-What's in this image? ./picture_03.jpg
+Open terminal, then run the following commands:
+  cd /Users/schumbar/Desktop/Fall2024/CMPE297_SpecialTopics/CMPE297/assignment_02/part_c
+  ollama run llava
+  What's in this image? ./picture_01.jpg
+  What's in this image? ./picture_02.jpg
+  What's in this image? ./picture_03.jpg
 
 
 ===============[ Part 3C: Demo ]===============
+./ollama serve
+./ollama run llava
 curl http://localhost:11434/api/pull -d '{    
   "name": "llava"   
 }'
+
 
 curl http://localhost:11434/api/generate -d '{
   "model": "llama3",
@@ -26,3 +32,11 @@ curl http://localhost:11434/api/generate -d '{
 
 ===============[ Part 4C: Demo ]===============
 Run the google colab located at the following link:
+https://colab.research.google.com/drive/1PAS9UgxKB1Z2FXSbhb4NY4ItaifsKioS#scrollTo=r1iVVEUv55Ik
+
+
+===============[ Part 5C: Demo ]===============
+docker run -d -p 3000:8080 --add-host=host.docker.internal:host-gateway -v open-webui:/app/backend/data --name open-webui --restart always ghcr.io/open-webui/open-webui:main
+
+Go to the following address:
+  http://localhost:3000/

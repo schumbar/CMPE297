@@ -22,9 +22,12 @@ Please see below for the list of deliverables that have been submitted for this 
 5. `picture_01.png`: A picture of city during night.
 6. `picture_02.png`: A picture of a forest.
 7. `picture_03.png`: A picture of a man in a "V for Vendetta" mask, while holding something that is on fire.
+8. `ShawnChumbar_Assignment02_Part4C.ipynb`: Google colab notebook containing the code for running ollama in google colab.
+9. `demo.txt`: A .txt file containing commands that I need to run for my demo for Part C.
 
 ### References
 
-- [ollama/ollama GitHub Repository](https://github.com/ollama/ollama)
-- [Running Ollama on Google Colab (Step-by-Step Guide)](https://pub.towardsai.net/running-ollama-on-google-colab-free-tier-a-step-by-step-guide-9ef74b1f8f7a)
-- [open-webui/open-webui GitHub Repository](https://github.com/open-webui/open-webui)
+1. [ollama/ollama GitHub Repository](https://github.com/ollama/ollama)
+2. [Running Ollama on Google Colab (Step-by-Step Guide)](https://pub.towardsai.net/running-ollama-on-google-colab-free-tier-a-step-by-step-guide-9ef74b1f8f7a)
+3. [open-webui/open-webui GitHub Repository](https://github.com/open-webui/open-webui)
+4. [Open WebUI Docs](https://docs.openwebui.com/)
