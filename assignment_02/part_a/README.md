@@ -18,4 +18,11 @@ c. You must demonstrate the following:
 
 Please see below for the list of deliverables that have been submitted for this assignment. Please note that all deliverables are under the `assignment_02/part_a` folder.
 
-1. TODO
+1. `README.md`: A Markdown file containing the description of the deliverables Assignment 02 Part A.
+
+### References
+
+1. [LLaMA-Factory on GitHub](https://github.com/hiyouga/LLaMA-Factory?tab=readme-ov-file)
+2. [LLaMA-Factory Colab Notebook](https://colab.research.google.com/drive/1fvw1MR3o-03qQ9eRw09glkN2VqIybKNm?usp=sharing)
+3. [LLaMA-Factory on PyPI](https://pypi.org/project/llamafactory/)
+4. [TODO](TODO)
