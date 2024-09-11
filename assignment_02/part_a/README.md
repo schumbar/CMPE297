@@ -18,4 +18,8 @@ c. You must demonstrate the following:
 
 Please see below for the list of deliverables that have been submitted for this assignment. Please note that all deliverables are under the `assignment_02/part_a` folder.
 
-1. TODO
+1. `README.md`: A Markdown file containing the description of the deliverables Assignment 02 Part A.
+
+### References
+
+1. [TODO](TODO)
