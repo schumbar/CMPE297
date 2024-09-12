@@ -22,6 +22,7 @@ Please see below for the list of deliverables that have been submitted for this 
 2. `ShawnChumbar_Assignment02_PartA_Fintetuning.ipynb`: A Google Colab notebook containing the code for fine-tuning of the **google/gemma-2b** model.
 3. `ShawnChumbar_Assignment02_PartA_DPO_Training.ipynb`: A Google Colab notebook containing the code for the DPO training portion of assignment02 part A.
 4. `ShawnChumbar_Assignment02_PartA_PPO_Training.ipynb`: A Google Colab notebook containing the code for the PPO Training portion of assignment02 part A.
+4. [Link to Youtube Video](TODO): Link to youtube video showcasing the Demo portion for Assignment 02 Part A.
 
 ### References
 
