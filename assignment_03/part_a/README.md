@@ -8,11 +8,12 @@ Do four unique usecases - you will use various chat model templates (hint: Links
 
 ## Assignment Deliverables
 
-### Part D Deliverables
+### Deliverables
 
 Please see below for the list of deliverables that have been submitted for this assignment. Please note that all deliverables are under the `assignment_03/part_a` folder.
 
 1. `README.md`: README file containing the assignment description and list of deliverables for assignment03 part A.
+2. `ShawnChumbar_Assignment03_PartA.ipynb`: Python notebook file containing the code for assignment03 part A - Finetuning.
 
 ### References
 
