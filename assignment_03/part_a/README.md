@@ -3,7 +3,7 @@
 ## Assignment Description
 
 You will finetune with following open weights llm modules.
-You will clearly explain in video how this works, what are the input format and data set used etc.,. very clearly for oone variety of task per model - coding, chat etc.,. 
+You will clearly explain in video how this works, what are the input format and data set used etc.,. very clearly for oone variety of task per model - coding, chat etc.,.
 Do four unique usecases - you will use various chat model templates (hint: Links to an external site.)
 
 ## Assignment Deliverables
