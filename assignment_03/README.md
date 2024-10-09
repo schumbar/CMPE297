@@ -57,13 +57,13 @@ Use unsloth to finetune a model and export to ollama. Be sure to show inference.
 
 ## List of Youtube Videos
 
-1. [Video for Part A - Finetuning](www.youtube.com)  
-2. [Video for Part B - LLM Learn New Language](www.youtube.com)  
-3. [Video for Part C - Chat Templates](www.youtube.com)  
-4. [Video for Part D - Reward Modeling with ORPO and DPO](www.youtube.com)  
-5. [Video for Part E - Continued Fine Tuning](www.youtube.com)  
-6. [Video for Part F - Finetuning for Mental Health Development Chatbot](www.youtube.com)  
-7. [Video for Part G - Finetune and export to Ollama](www.youtube.com)
+1. [Video for Part A - Finetuning](https://youtu.be/GZRjulV9N30)  
+2. [Video for Part B - LLM Learn New Language](https://youtu.be/UHcg5IoZXH8)  
+3. [Video for Part C - Chat Templates](https://youtu.be/dXeZtcOeMuE)  
+4. [Video for Part D - Reward Modeling with ORPO and DPO](https://youtu.be/wlCrhDQwDDE)  
+5. [Video for Part E - Continued Fine Tuning](https://youtu.be/sNQIkF-rCcg)  
+6. [Video for Part F - Finetuning for Mental Health Development Chatbot](https://youtu.be/cWQ7UgvQyK0)  
+7. [Video for Part G - Finetune and export to Ollama](https://youtu.be/eiHgGqjtPzs)
 
 ## List of References
 
