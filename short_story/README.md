@@ -37,4 +37,5 @@ Here is a breakdown of the assignment description:
 ## List of References
 
 1. [GitHub resource](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/research_updates/survey_papers.md)
-2. I used ChatGPT to help with the generation of a medium article and slide outline.
+2. [Link to Survey Paper](https://arxiv.org/abs/2308.11432)
+3. ChatGPT was used to generate slide outline.
