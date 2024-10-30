@@ -32,7 +32,7 @@ Here is a breakdown of the assignment description:
 2. `Survey_on_LLM_based_Autonomous_Agents.pdf`: PDF file containing the survey paper for this assignment.
 3. `ShawnChumbar_CMPE297_ShortStorySlides.pdf`: PDF file containing the slide deck for this assignment.
 4. [Medium Article](https://medium.com/@shawn.chumbar/pushing-the-boundaries-of-ai-how-autonomous-agents-with-llms-are-shaping-the-future-60782a5105da): Link to Medium article for this assignment.
-5. [Video Presentation](https://youtube.com): Link to video presentation for this assignment. TODO
+5. [Slide Deck Video Presentation](https://youtu.be/cFl1ijAo23k): Link to video presentation for this assignment. TODO
 
 ## List of References
 
