@@ -29,7 +29,7 @@ Here is a breakdown of the assignment description:
 ## List of Deliverables
 
 1. `README.md`: README file containing the short story assignment description and list of deliverables for each part.
-2. `ShawnChumbar_ShortStorySlides.PDF`: PDF file containing the slide deck for this assignment.
+2. `ShawnChumbar_CMPE297_ShortStorySlides.pdf`: PDF file containing the slide deck for this assignment.
 3. [Medium Article](https://medium.com/@shawn.chumbar/pushing-the-boundaries-of-ai-how-autonomous-agents-with-llms-are-shaping-the-future-60782a5105da): Link to Medium article for this assignment.
 4. [Video Presentation](https://youtube.com): Link to video presentation for this assignment. TODO
 
