@@ -58,15 +58,17 @@ Train a GNN-based model for a tabular prediction task using RelBench in a Colab.
 
 ## List of Deliverables
 
+All deliverables for this assignment are located under the `assignment_05` directory.
+
 1. `README.md`: README file containing the assignment descriptions and a comprehensive list of deliverables.
-2. `PartA_TimeGPT_Multivariate_LongHorizon.ipynb`: Colab notebook for TimeGPT multivariate and long horizon forecasting.
-3. `PartB_TimeGPT_Finetune.ipynb`: Colab notebook for fine-tuning TimeGPT.
-4. `PartC_TimeGPT_AnomalyDetection.ipynb`: Colab notebook for anomaly detection using TimeGPT.
-5. `PartD_TimeGPT_EnergyForecasting.ipynb`: Colab notebook for energy demand forecasting.
-6. `PartE_TimeGPT_BitcoinForecasting.ipynb`: Colab notebook for Bitcoin price forecasting.
-7. `PartA_Tabular_SyntheticData.ipynb`: Colab notebook for synthetic data generation using Tabula.
-8. `PartB_Tabular_Inference.ipynb`: Colab notebook for inference on Tabula model with zero-shot learning.
-9. `PartA_RDL_RelBench_GNNModel.ipynb`: Colab notebook for training a GNN-based model using RelBench.
+2. `ShawnChumbar_Assignment05_PartA.ipynb`: Colab notebook for TimeGPT multivariate and long horizon forecasting.
+3. `ShawnChumbar_Assignment05_PartB.ipynb`: Colab notebook for fine-tuning TimeGPT.
+4. `ShawnChumbar_Assignment05_PartC.ipynb`: Colab notebook for anomaly detection using TimeGPT.
+5. `ShawnChumbar_Assignment05_PartD.ipynb`: Colab notebook for energy demand forecasting.
+6. `ShawnChumbar_Assignment05_PartE.ipynb`: Colab notebook for Bitcoin price forecasting.
+7. `ShawnChumbar_Assignment05_PartF.ipynb`: Colab notebook for synthetic data generation using Tabula.
+8. `ShawnChumbar_Assignment05_PartG.ipynb`: Colab notebook for inference on Tabula model with zero-shot learning.
+9. `ShawnChumbar_Assignment05_PartH.ipynb`: Colab notebook for training a GNN-based model using RelBench.
 
 ## List of References
 
