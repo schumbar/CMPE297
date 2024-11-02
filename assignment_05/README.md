@@ -36,13 +36,13 @@ Develop a Colab that uses TimeGPT to predict Bitcoin prices. Provide detailed ex
 
 ### Tabular
 
-#### Part A - Synthetic Data Generation
+#### Part F - Synthetic Data Generation
 
 **Description:**  
 Create a Colab that generates synthetic data for a real dataset using Tabula. Include explanations for the data generation process and how it compares to the original data.  
 **Hint:** Refer to [Tabula’s example with insurance dataset](https://github.com/zhao-zilong/Tabula/blob/main/Tabula_on_insurance_dataset.ipynb).
 
-#### Part B - Inference with Tabula Model
+#### Part G - Inference with Tabula Model
 
 **Description:**  
 Demonstrate inference on a Tabula model with zero-shot learning in a Colab. Explain how the model makes predictions and interpret the results.  
@@ -50,7 +50,7 @@ Demonstrate inference on a Tabula model with zero-shot learning in a Colab. Expl
 
 ### RDL and RelBench
 
-#### Part A - GNN-Based Model for Tabular Prediction
+#### Part H - GNN-Based Model for Tabular Prediction
 
 **Description:**  
 Train a GNN-based model for a tabular prediction task using RelBench in a Colab. Explain the training process, metrics, and outcomes in detail.  
