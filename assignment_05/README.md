@@ -70,7 +70,7 @@ All deliverables for this assignment are located under the `assignment_05` direc
 8. `ShawnChumbar_Assignment05_PartG.ipynb`: Colab notebook for inference on Tabula model with zero-shot learning.
 9. `ShawnChumbar_Assignment05_PartH.ipynb`: Colab notebook for training a GNN-based model using RelBench.
 
-## List of Youtube Videos
+## List of Youtube Videos TODO
 
 Please see below for the list of youtube videos created for this assignment. You will find a link to each youtube video as well as the description of which part of the assignment it corresponds to.
 
