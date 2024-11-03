@@ -70,6 +70,19 @@ All deliverables for this assignment are located under the `assignment_05` direc
 8. `ShawnChumbar_Assignment05_PartG.ipynb`: Colab notebook for inference on Tabula model with zero-shot learning.
 9. `ShawnChumbar_Assignment05_PartH.ipynb`: Colab notebook for training a GNN-based model using RelBench.
 
+## List of Youtube Videos
+
+Please see below for the list of youtube videos created for this assignment. You will find a link to each youtube video as well as the description of which part of the assignment it corresponds to.
+
+1. [Youtube Video for Part A](youtube.com)
+2. [Youtube Video for Part B](youtube.com)
+3. [Youtube Video for Part C](youtube.com)
+4. [Youtube Video for Part D](youtube.com)
+5. [Youtube Video for Part E](youtube.com)
+6. [Youtube Video for Part F](youtube.com)
+7. [Youtube Video for Part G](youtube.com)
+8. [Youtube Video for Part H](youtube.com)
+
 ## List of References
 
 1. [Nixtla’s Multiple Series Forecasting Tutorial](https://docs.nixtla.io/docs/tutorials-multiple_series_forecasting)
