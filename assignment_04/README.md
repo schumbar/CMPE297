@@ -25,29 +25,22 @@ Create an app on the n8n platform that invokes a human agent when needed, implem
 ## List of Deliverables
 
 1. `README.md`: README file containing the assignment description and list of deliverables for each part.
-2. `ShawnChumbar_Assignment04_PartA.ipynb`: Notebook containing the code for the chat frontend app.
-3. `ShawnChumbar_Assignment04_PartB.ipynb`: Notebook containing the code for the backend-triggered app.
-4. `ShawnChumbar_Assignment04_PartC.ipynb`: Notebook containing the code for the human-in-the-loop app.
+2. `PartA_CustomerSupport.json`: JSON file containing the workflow for the chat frontend app.
+3. `PartB_Backend.json`: JSON file containing the workflow for the backend-triggered app.
+4. `PartC_HumanInTheLoop.json`: JSON file containing the workflow for the human-in-the-loop app.
 
 ## List of References
 
-1. <https://www.youtube.com/watch?v=pBy0HZ2ohOA&ab_channel=AIWorkshop>
-2. <https://www.youtube.com/watch?v=dC2Q_cyzgjg&ab_channel=AIWorkshop>
-3. <https://www.youtube.com/watch?v=UU_X_p6anHM>
-4. <https://www.youtube.com/watch?v=XQ7wNqbB1k8>
-5. <https://www.youtube.com/watch?v=YU2pZ4eUGO>
-6. <https://www.youtube.com/watch?v=7GVdeCRFQGs&ab_channel=AIWorkshop>
-7. <https://www.youtube.com/watch?v=HsWvvipZNHw>
-8. <https://www.youtube.com/watch?v=hwN5osQCmsE>
-9. <https://www.youtube.com/watch?v=R36bpNPPlMs>
-10. <https://www.youtube.com/watch?v=EmOEZwlxvNq>
-11. <https://www.youtube.com/watch?v=6wQMshwAqBQ>
-12. <https://www.youtube.com/watch?v=YFrej2oSldp>
-13. <https://www.youtube.com/watch?v=YU2pZ4eUGO>
-14. <https://www.youtube.com/watch?v=7GVdeCRFQGs&ab_channel=AIWorkshop>
-15. <https://www.youtube.com/watch?v=HsWvvipZNHw>
-16. <https://www.youtube.com/watch?v=hwN5osQCmsE>
-17. <https://www.youtube.com/watch?v=R36bpNPPlMs>
-18. <https://www.youtube.com/watch?v=EmOEZwlxvNq>
-19. <https://www.youtube.com/watch?v=6wQMshwAqBQ>
-20. <https://www.youtube.com/watch?v=YFrej2oSldp>
+1. [Getting Slack Access Token Credentials for n8n](https://www.youtube.com/watch?v=8x3BzKhl_ek)
+2. [Create a No-code Discord Chatbot powered by Open AI using n8n and LangChain](https://www.youtube.com/watch?v=NIpr3uwXnrA&t=181s)
+3. [Discord API Key Tutorial](https://www.youtube.com/watch?v=OAJyw4zrsk0)
+4. [Logging n8n events to Discord by Jason McFeetors](https://www.youtube.com/watch?v=epz5Uo3Zd6Q&t=267s)
+5. [Step-by-Step Tutorial: Create a RAG Chatbot with n8n AI Agents in MINUTES](https://www.youtube.com/watch?v=UeFi5oV9UpY&t=1200s)
+6. [Build your first NO CODE AI Agent in n8n (for beginners)](https://www.youtube.com/watch?v=otUBuV1foLY)
+7. [Setup OpenAI API Assistant In n8n w/ HTTP Requests & Thread ID To Maintain Context](https://www.youtube.com/watch?v=xIiBGKUn9s8&t=135s)
+
+## Youtube Videos
+
+1. [Video for Part A](https://www.youtube.com)
+2. [Video for Part B](https://www.youtube.com)
+3. [Video for Part C](https://www.youtube.com)
