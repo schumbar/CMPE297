@@ -24,12 +24,14 @@ Create an app on the n8n platform that invokes a human agent when needed, implem
 
 ## List of Deliverables
 
+Please note that all deliverables for this assignment are located under the `assignment_04` folder.
+
 1. `README.md`: README file containing the assignment description and list of deliverables for each part.
 2. `PartA_CustomerSupport.json`: JSON file containing the workflow for the chat frontend app.
 3. `PartB_Backend.json`: JSON file containing the workflow for the backend-triggered app.
 4. `PartC_HumanInTheLoop.json`: JSON file containing the workflow for the human-in-the-loop app.
 
-## Youtube Videos TODO
+## Youtube Videos
 
 1. [Video for Part A](https://youtu.be/LOmbYTa7w_0)
 2. [Video for Part B](https://youtu.be/z_iTdgNAuoQ)
