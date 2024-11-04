@@ -79,7 +79,7 @@ Please see below for the list of youtube videos created for this assignment. You
 3. [Youtube Video for Part C](https://youtu.be/y5SauLok1-8)
 4. [Youtube Video for Part D](https://youtu.be/kY2APV3FOTI)
 5. [Youtube Video for Part E](https://youtu.be/5vbCyyVK-Hw)
-6. [Youtube Video for Part F](TODO)
+6. [Youtube Video for Part F](https://youtu.be/RQGpbVGcA-U)
 7. [Youtube Video for Part G](https://youtu.be/dFGkQm7T8jM)
 8. [Youtube Video for Part H](https://youtu.be/wrAq05C4zAo)
 
