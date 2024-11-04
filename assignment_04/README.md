@@ -31,9 +31,9 @@ Create an app on the n8n platform that invokes a human agent when needed, implem
 
 ## Youtube Videos TODO
 
-1. [Video for Part A](https://www.youtube.com)
-2. [Video for Part B](https://www.youtube.com)
-3. [Video for Part C](https://www.youtube.com)
+1. [Video for Part A](https://youtu.be/LOmbYTa7w_0)
+2. [Video for Part B](https://youtu.be/z_iTdgNAuoQ)
+3. [Video for Part C](https://youtu.be/7TvcBmqdL_g)
 
 ## List of References
 
