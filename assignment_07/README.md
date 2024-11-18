@@ -55,6 +55,8 @@ Develop a use case that demonstrates how to effectively use system prompts in Op
 
 ### Deliverables
 
+All deliverables for this assignment are located under the `assignment_07` directory.
+
 1. Colab notebooks for all tasks (A-F).
 2. A slide deck showcasing the 21 prompt templates (Part B).  
 3. Test cases for prompt evaluation (Parts A, C, and E).  
