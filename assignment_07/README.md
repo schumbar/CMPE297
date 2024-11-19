@@ -56,11 +56,16 @@ Develop a use case that demonstrates how to effectively use system prompts in Op
 ### Deliverables
 
 All deliverables for this assignment are located under the `assignment_07` directory.
+Please see below for the list of deliverables for this assignment:
 
-1. Colab notebooks for all tasks (A-F).
-2. A slide deck showcasing the 21 prompt templates (Part B).  
-3. Test cases for prompt evaluation (Parts A, C, and E).  
-4. Modular and well-documented code for all implementations.  
+1. `README.md`: README file containing the assignment descriptions and a comprehensive list of deliverables.
+2. `ShawnChumbar_Assignment07_PartA.ipynb`: Colab notebook for Part A - 
+3. `ShawnChumbar_Assignment07_PartB.ipynb`: Colab notebook for Part B - 
+4. `ShawnChumbar_Assignment07_PartC.ipynb`: Colab notebook for Part C - 
+5. `ShawnChumbar_Assignment07_PartD.ipynb`: Colab notebook for Part D - 
+6. `ShawnChumbar_Assignment07_PartE.ipynb`: Colab notebook for Part E - 
+7. `ShawnChumbar_Assignment07_PartF.ipynb`: Colab notebook for Part F - 
+8. `ShawnChumbar_Assignment07_PartF_Slide_Deck.PDF`: Slide Deck showcasing the 21 prompt templates for Part B.
 
 This structure simplifies the assignment into clear sections, ensuring readability and easier task management.
 

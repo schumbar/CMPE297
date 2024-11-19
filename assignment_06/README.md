@@ -2,7 +2,7 @@
 
 ## Assignment Descriptions
 
-### Advanced Prompt Engineering Strategies
+### Transformers and finetuning with LLMs
 
 This assignment requires completing two main tasks: implementing NanoGPT from scratch and reproducing the "Textbooks Are All You Need" case study. Both tasks involve creating modular and well-documented code while providing comprehensive artifacts.
 
@@ -18,24 +18,15 @@ The second part of the assignment requires recreating the "Textbooks Are All You
 
 ## List of Deliverables
 
-TODO: Include the following artifacts:
-
-- Medium Article
-- Input File
-- Output file
-- short video presentation explaining code
-- Colabs
-- Youtube Video.
-
-
 All deliverables for this assignment are located under the `assignment_06` directory.
 
 1. `README.md`: README file containing the assignment descriptions and a comprehensive list of deliverables.
 2. `ShawnChumbar_Assignment06_PartA.ipynb`: Colab notebook for Part A - NanoGPT.
-3. `ShawnChumbar_Assignment06_PartB.ipynb`: Colab notebook for Part B - "Textbooks Are All You Need" Case Study.
-4. 
-5. Output file
-6. Medium Article
+3. `ckpt.pt`: Output file for Part A - NanoGPT.
+4. `input.txt`: Input file for Part A - NanoGPT.
+5. [Medium Article](https://www.medium.com): Medium article explaining the implementation of NanoGPT.
+6. [Video Presentation Link](https://www.youtube.com): Link to the video presentation explaining the code.
+7. `ShawnChumbar_Assignment06_PartB.ipynb`: Colab notebook for Part B - "Textbooks Are All You Need" Case Study.
 
 ## List of References
 
