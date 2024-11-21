@@ -59,15 +59,13 @@ All deliverables for this assignment are located under the `assignment_07` direc
 Please see below for the list of deliverables for this assignment:
 
 1. `README.md`: README file containing the assignment descriptions and a comprehensive list of deliverables.
-2. `ShawnChumbar_Assignment07_PartA.ipynb`: Colab notebook for Part A - 
-3. `ShawnChumbar_Assignment07_PartB.ipynb`: Colab notebook for Part B - 
-4. `ShawnChumbar_Assignment07_PartC.ipynb`: Colab notebook for Part C - 
-5. `ShawnChumbar_Assignment07_PartD.ipynb`: Colab notebook for Part D - 
-6. `ShawnChumbar_Assignment07_PartE.ipynb`: Colab notebook for Part E - 
-7. `ShawnChumbar_Assignment07_PartF.ipynb`: Colab notebook for Part F - 
+2. `ShawnChumbar_Assignment07_PartA.ipynb`: Colab notebook for Part A -  Illustrate Prompt Engineering Techniques.
+3. `ShawnChumbar_Assignment07_PartB.ipynb`: Colab notebook for Part B - Write 21 Prompt Templates.
+4. `ShawnChumbar_Assignment07_PartC.ipynb`: Colab notebook for Part C - Create Prompts for Diverse Fields.
+5. `ShawnChumbar_Assignment07_PartD.ipynb`: Colab notebook for Part D - Implement OpenAI Examples with OpenAI API.
+6. `ShawnChumbar_Assignment07_PartE.ipynb`: Colab notebook for Part E - API Function Calls.
+7. `ShawnChumbar_Assignment07_PartF.ipynb`: Colab notebook for Part F - System Prompt Example.
 8. `ShawnChumbar_Assignment07_PartF_Slide_Deck.PDF`: Slide Deck showcasing the 21 prompt templates for Part B.
-
-This structure simplifies the assignment into clear sections, ensuring readability and easier task management.
 
 ### References
 
