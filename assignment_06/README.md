@@ -30,15 +30,10 @@ All deliverables for this assignment are located under the `assignment_06` direc
 
 ## List of References
 
-### Part A References
-
 1. [NanoGPT Colab Notebook](https://colab.research.google.com/drive/1JMLa53HDuA-i7ZBmqV7ZnA3c_fvtXnx-?usp=sharing)
 2. [YouTube Tutorial](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=18s)
 3. [Class Presentation](https://docs.google.com/presentation/d/1fk8QlODYkBTTH4ftw8M7Sw_tmhJa8KB97s7dYP6s4mI/edit#slide=id.g24535d0c6d4_0_178)
-
-### Part B References
-
-1. [YouTube Video](https://www.youtube.com/watch?v=gmFi6W8DPdM)
-2. [GitHub Repository](https://github.com/jina-ai/textbook)
-3. [Colab Notebook](https://colab.research.google.com/drive/1T4IfGfDJ8uxgU8XBPpMZivw_JThzdQim?usp=sharing)
-4. [Research Paper (PDF)](https://arxiv.org/pdf/2306.11644.pdf)
+4. [YouTube Video](https://www.youtube.com/watch?v=gmFi6W8DPdM)
+5. [GitHub Repository](https://github.com/jina-ai/textbook)
+6. [Colab Notebook](https://colab.research.google.com/drive/1T4IfGfDJ8uxgU8XBPpMZivw_JThzdQim?usp=sharing)
+7. [Research Paper (PDF)](https://arxiv.org/pdf/2306.11644.pdf)
