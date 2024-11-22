@@ -28,6 +28,8 @@ All deliverables for this assignment are located under the `assignment_06` direc
 6. [Medium Article](https://www.medium.com): Medium article explaining the implementation of NanoGPT.
 7. [Video Presentation Link](https://www.youtube.com): Link to the video presentation explaining the code.
 
+TODO: Add Medium Article Link, Create Video Presentation, and update video link.
+
 ## List of References
 
 1. [NanoGPT Colab Notebook](https://colab.research.google.com/drive/1JMLa53HDuA-i7ZBmqV7ZnA3c_fvtXnx-?usp=sharing)
