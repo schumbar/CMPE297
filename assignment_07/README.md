@@ -65,7 +65,6 @@ Please see below for the list of deliverables for this assignment:
 5. `ShawnChumbar_Assignment07_PartD.ipynb`: Colab notebook for Part D - Implement OpenAI Examples with OpenAI API.
 6. `ShawnChumbar_Assignment07_PartE.ipynb`: Colab notebook for Part E - API Function Calls.
 7. `ShawnChumbar_Assignment07_PartF.ipynb`: Colab notebook for Part F - System Prompt Example.
-8. `ShawnChumbar_Assignment07_PartF_Slide_Deck.PDF`: Slide Deck showcasing the 21 prompt templates for Part B.
 
 ### References
 
