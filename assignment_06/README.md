@@ -22,11 +22,11 @@ All deliverables for this assignment are located under the `assignment_06` direc
 
 1. `README.md`: README file containing the assignment descriptions and a comprehensive list of deliverables.
 2. `ShawnChumbar_Assignment06_PartA.ipynb`: Colab notebook for Part A - NanoGPT.
-3. `ckpt.pt`: Output file for Part A - NanoGPT.
+3. `ShawnChumbar_Assignment06_PartB.ipynb`: Colab notebook for Part B - "Textbooks Are All You Need" Case Study.
 4. `input.txt`: Input file for Part A - NanoGPT.
-5. [Medium Article](https://www.medium.com): Medium article explaining the implementation of NanoGPT.
-6. [Video Presentation Link](https://www.youtube.com): Link to the video presentation explaining the code.
-7. `ShawnChumbar_Assignment06_PartB.ipynb`: Colab notebook for Part B - "Textbooks Are All You Need" Case Study.
+5. `ckpt.pt`: Output file for Part A - NanoGPT.
+6. [Medium Article](https://www.medium.com): Medium article explaining the implementation of NanoGPT.
+7. [Video Presentation Link](https://www.youtube.com): Link to the video presentation explaining the code.
 
 ## List of References
 
