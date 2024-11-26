@@ -24,9 +24,9 @@ All deliverables for this assignment are located under the `assignment_06` direc
 2. `ShawnChumbar_Assignment06_PartA.ipynb`: Colab notebook for Part A - NanoGPT.
 3. `ShawnChumbar_Assignment06_PartB.ipynb`: Colab notebook for Part B - "Textbooks Are All You Need" Case Study.
 4. `input.txt`: Input file for Part A - NanoGPT.
-5. `ckpt.pt`: Output file for Part A - NanoGPT.
-6. [Medium Article](https://medium.com/@shawn.chumbar/understanding-nanogpt-a-deep-dive-into-transformer-architecture-implementation-9a7167b7d58c): Medium article explaining the implementation of NanoGPT.
-7. [Video Presentation Link](https://youtu.be/1nvVtw-Un1Y): Link to the video presentation explaining the code for both parts A and B.
+5. [Medium Article](https://medium.com/@shawn.chumbar/understanding-nanogpt-a-deep-dive-into-transformer-architecture-implementation-9a7167b7d58c): Medium article explaining the implementation of NanoGPT.
+6. [Video Presentation Link](https://youtu.be/1nvVtw-Un1Y): Link to the video presentation explaining the code for both parts A and B.
+7. `ckpt.pt`: Output file for Part A - NanoGPT.
 
 ## List of References
 
