@@ -10,7 +10,7 @@ All deliverables for this assignment are located under the `assignment_08` direc
 Please see below for the list of deliverables for this assignment:
 
 1. `README.md`: README file containing the assignment descriptions and a comprehensive list of deliverables.
-2. [Youtube Video Link](youtube.com): : Youtube video link to the application walkthrough.
+2. [Youtube Video Link](youtube.com): Youtube video link to the application walkthrough.
 3. `MyApp`: Directory which contains the application code and instructions on how to run and use the application.
 
 ## References
