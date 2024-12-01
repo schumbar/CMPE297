@@ -16,7 +16,7 @@ Please see below for the list of deliverables for this assignment:
 2. [Youtube Video Link](youtube.com): Youtube video link to the application walkthrough.
 3. `MyApp`: Directory which contains the application code and instructions on how to run and use the application.
 
-## References
+### References
 
 1. [An End-to-End Framework for Production-Ready LLM Systems by Building Your LLM Twin](https://www.comet.com/site/blog/an-end-to-end-framework-for-production-ready-llm-systems-by-building-your-llm-twin/)
 2. [LLM Twin Course GitHub Repository](https://github.com/decodingml/llm-twin-course)
@@ -24,7 +24,7 @@ Please see below for the list of deliverables for this assignment:
 4. [End-to-End Generative AI Projects GitHub Repository](https://github.com/GURPREETKAURJETHRA/END-TO-END-GENERATIVE-AI-PROJECTS)
 5. [GenAI Examples GitHub Repository](https://github.com/opea-project/GenAIExamples)
 
-## INSTRUCTIONS TO RUN THE APPLICATION
+### INSTRUCTIONS TO RUN THE APPLICATION
 
 This section outlines how to run the application.
 This section assumes that you already have docker desktop installed on your machine and you are able to run docker compose commands successfully.
