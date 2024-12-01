@@ -14,7 +14,7 @@ Please see below for the list of deliverables for this assignment:
 
 1. `README.md`: README file containing the assignment descriptions and a comprehensive list of deliverables.
 2. [Youtube Video Link](https://youtu.be/t9L-YX7gKxQ): Youtube video link to the application walkthrough.
-3. `MyApp`: Directory which contains the application code and instructions on how to run and use the application.
+3. `ai_agent_app`: Directory which contains the application code and instructions on how to run and use the application.
 
 ### References
 
