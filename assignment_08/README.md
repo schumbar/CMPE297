@@ -13,7 +13,7 @@ All deliverables for this assignment are located under the `assignment_08` direc
 Please see below for the list of deliverables for this assignment:
 
 1. `README.md`: README file containing the assignment descriptions and a comprehensive list of deliverables.
-2. [Youtube Video Link](youtube.com): Youtube video link to the application walkthrough.
+2. [Youtube Video Link](https://youtu.be/t9L-YX7gKxQ): Youtube video link to the application walkthrough.
 3. `MyApp`: Directory which contains the application code and instructions on how to run and use the application.
 
 ### References
@@ -39,10 +39,9 @@ OPENAI_API_KEY=your_api_key_here
 2. **Build and run using Docker Compose**
 
 ```bash
+
 # Build and start the container
-docker-compose up --build   
-# To run in detached mode (background)
-docker-compose up --build -d
+docker-compose up --build
 ```
 
 3. **Access the Application**
